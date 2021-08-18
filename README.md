@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## CSC462 Distributed Computing Stakeholder Report
+
+# Introduction
+CELEBRATE!  Please provide a web-based blog report, bringing together all of the hard work you have done all semester on both phases of this project!  Feel free to incorporate deliverables from Phase I and lessons learned from the labs in this final report as well.
 
 You can use the [editor on GitHub](https://github.com/NZ369/DistributedComputing/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
