@@ -24,6 +24,8 @@ Over this term, we have done a sigificant amout of work surounding the use of sa
 
 ## Mosaic Review 
 
+Mosaic is a remarcable up an comming tool that takes advanatage of sentinel satalight imagery. It does theis by combing the satalight images in the best way possible in order to create a high resolution satalight image that can be easily used and queried. This provided an interesitng insight into how proprietyary information can be created, and how that infomration can be used in other tools. Our analysis of mosica incluses a description of how it was to use, as well as some suggestion that might improve it in the future.
+
 ## Decentralized and Democratized Modern Platforms 
 
 ## Architecture Design and Prototype Implementation for local Drone and/or Sensor data
