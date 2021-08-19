@@ -115,44 +115,16 @@ When it comes to the use of the platform for industry use cases such as kelp ind
 
 
 
-I haven't bailed on writing. Look, I'm generating a random paragraph at this very moment in an attempt to get my writing back on track. I am making an effort. I will start writing consistently again!
+Not every problem can be solved using a distributed system. There are often limitations on network availability, information security, and other similar issues that can prevent us from being able to use the large, pre-built or custom designed systems of distributed computers to solve difficult problems. Instead, in such cases, it may be necessary to rely on local solutions to problems. Using simple, less powerful local computing systems comes with some challenges and limitations that we would not face to nearly the same extent in a distributed system.
 
-- (If you have to mention in points)
-- abcdef
-  - ghijk
-  - lmno
-* pqrst
-* uvw
+The problem of how to handle data being stored and used in local environments is one best solved not through the creation of a highly complex system, but rather, by attempting to find a simplified version of a problem that can be more easily solved at a local level. An example of this would be the issue of image recognition using drone footage. The computers that are available for such an item are definitely not capable of properly training and image recognition problems. Such applications often require thousands of hours of computing time to traine, and an immense amount of resources. With that said, once a model has been trained, the effort required to actually perform the recognition is comparably miniscule. For example performing image recognition on an image of size n * m would take time on the order of O(mn) rather than the incredibly large amount needed for training. As a result, an incredibly difficult problem can be solved in a local environment simply by relaxing the requirement on the local machine. 
 
+The chosen problem for this stage of the project is the use of sensors distributed through an area, and the problem of how best to create an overlay of a “heat map” demonstrating the sensor data values over an area. 
+
+By using the output heat map, and combining it with satellite image data using python, we can create the following image overlay:
 
 
-![image](./<img>.jpg)
-
-It was a question of which of the two she preferred. On the one hand,**Italics** the choice seemed simple. The more expensive one with a brand name would be the choice of most. It was the easy choice. The safe choice[url title](http://<url>). But she wasn't sure she actually preferred it.
-
-### Any smaller font title
-
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
-
-> To highlight at the side
-> Content
-> Content
 
 
-1.  Anything to be numbered
-2.  abc
-3.  def
-
-
-# Display in a tabular format
-| No.    | Y      | Z |
-| :----- | :---| --: |
-| 1      | ABC | P |
-| 2      | DEF | Q |
-| 3      | GHI | R |
-
+While this does not use actual data, and instead uses arbitrary data, this is not a true representation of the area. With that said, we could relatively easily create a more elevent version of this by taking temperature data from environment canada monitoring stations, then normalizing it and doing the steps described earlier to make a genuine heat map of the victoria region.
 
