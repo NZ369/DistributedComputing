@@ -18,6 +18,8 @@ For the purposes of this project, the focus will be on environmental and climate
 
 ## Test sites, data, and proposed architecture involving Arbutus and at least one other platform
 
+![image](./metric.jpg)
+
 Proposed test sites:
 - Testing Site #1 - Mid Vancouver Island and Cathedral Grove
 - Testing Site #2 - Thompson River Valley
@@ -31,6 +33,13 @@ Tools used for proof of concept:
 ![image](./architecture.jpg)
 
 ## Initial results of analysis methods for at least 3 example properties
+
+![image](./site1a.jpg)
+![image](./site1b.jpg)
+![image](./site2a.jpg)
+![image](./site2b.jpg)
+![image](./site3a.jpg)
+![image](./site3b.jpg)
 
 ## Natural Asset monitoring prototype
 
