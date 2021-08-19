@@ -32,7 +32,7 @@ Tools used for proof of concept:
 
 ![image](./architecture.jpg)
 
-## Initial results of analysis methods for at least 3 example properties
+## Initial results for 3 example properties
 
 ![image](./site1a.jpg)
 ![image](./site1b.jpg)
@@ -42,6 +42,37 @@ Tools used for proof of concept:
 ![image](./site3b.jpg)
 
 ## Natural Asset monitoring prototype
+
+Our created metric the Environmental Monitoring Metrics (EMM) will generate insight through utilizing information derived from a variety of indices such as:
+
+Normalized Difference Vegetation Index (NDVI)
+(B8 - B4) / (B8 + B4), where: B8 = 842 nm, B4 = 665 nm
+Normalized Difference Index (NDI45M)
+(B5 - B4) / (B5 + B4), where: B5 = 705 nm, B4 = 665 nm
+Modified Chlorophyll Absorption Ratio Index (MCARI)
+[(B5 - B4) - 0.2 * (B5 - B3)] * (B5 - B4), where: B5 = 705 nm, B4 = 665 nm, B3 = 560 nm
+Soil Adjusted Vegetation Index (SAVI)
+(B08 - B04) / (B08 + B04 + L) * (1.0 + L); L = 0.428 where: L is a soil brightness correction factor ranging from 0 to 1 L = 1 low vegetation cover, L = 0 high vegetation cover, L = 0.5 intermediate vegetation cover.
+
+Through using the combination of results from relevant indices and assigning weights to each individual index, the EMM would produce results that more accurately reflects the environmental situation of a region.  
+
+### Platforms used includes:
+
+Google Colab
+
+Google Colaboratory (Colab) is a hosted Jupyter notebook service that allows users to access computing resources, such as graphics processing units (GPUs) and Google’s tensor processing units (TPUs). Especially suited to data analysis, Colab allows users to execute Python 3 code on provided VMs.  Colab provides these resources for free, however there exists no guarantee on what underlying hardware is being used, nor how many resources are allocated.  
+
+Copernicus Sentinel-2 Database
+
+The Copernicus Open Access Hub  provides complete, free and open access to Sentinel-1, Sentinel-2, Sentinel-3 and Sentinel-5P user products, starting from the In-Orbit Commissioning Review (IOCR).  Sentinel-2 is a constellation with two twin satellites, Sentinel-2A and Sentinel-2B that conducts earth observation and systematically acquires optical imagery at high spatial resolution (10 m to 60 m) over land and coastal waters.
+
+Architecture used:
+![image](./architecture1.jpg)
+
+Final testing site was Vancouver site, generated results based on our created metric is as follows:
+![image](./result1.jpg)
+![image](./result2.jpg)
+
 
 ## Natural Asset monitoring report and notes on future work
 
