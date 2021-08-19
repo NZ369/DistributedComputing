@@ -1,11 +1,10 @@
 ---
-title: Project1
-date: "2021-06-12"
-description:  Project to ... (brief description)
-team:  Team01
+title: SEng 462 Stakeholder Update
+date: "2021-08-18"
+description:  Maximilian Cunningham (V00877737), Yuying Zhang (V00924070), Joseph Padayattil (V00951220)
 ---
 
-I've rented a car in Las Vegas and have reserved a hotel in Twentynine Palms which is just north of Joshua Tree. We'll drive from Las Vegas through Mojave National Preserve and possibly do a short hike on our way down. Then spend all day on Monday at Joshua Tree. We can decide the next morning if we want to do more in Joshua Tree or Mojave before we head back.
+Over this term, we have done a sigificant amout of work surounding the use of satalight and remote sensing data, and how it can be leverages by distributed systems. Our project initially revolved around how to use of satalight imagery from the sentinel 2 mission. The second phase of the project was finding applications for diffient data sources, and how they could be integreated with a veriety of distributed applications.
 
 # (For titles (More number of '#' for smaller size))
 
