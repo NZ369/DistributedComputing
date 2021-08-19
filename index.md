@@ -86,7 +86,7 @@ In terms of potential future work, the focus should be on refining the results g
 Mosaic is a remarcable up an comming tool that takes advanatage of sentinel satalight imagery. It does theis by combing the satalight images in the best way possible in order to create a high resolution satalight image that can be easily used and queried. This provided an interesitng insight into how proprietyary information can be created, and how that infomration can be used in other tools. Our analysis of mosica incluses a description of how it was to use, as well as some suggestion that might improve it in the future.
 
 ## Decentralized and Democratized Modern Platforms 
-This was an opportunity to use the experienced gained so far to propose a new design for a distributed system from scratch. This was a design that was based on local-first software and decentralized blockchain technology.
+This was an opportunity to use the experienced gained so far to propose a new design for a distributed system from scratch. This was a design that was based on local-first software and decentralized blockchain technology. Local-first software offers the advantages of cloud apps, while also allowing users to retain full ownership of the data they create, while a blockchain is an excellent way of recording and validating information, even among multiple systems. In this system, the primary copy of the data would be the copy stored on the user's device, rather than a centralized database. 
 
 
 ## Architecture Design and Prototype Implementation for local Drone and/or Sensor data
