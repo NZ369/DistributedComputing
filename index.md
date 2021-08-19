@@ -19,9 +19,16 @@ For the purposes of this project, the focus will be on environmental and climate
 ## Test sites, data, and proposed architecture involving Arbutus and at least one other platform
 
 Proposed test sites:
-Testing Site #1 - Mid Vancouver Island and Cathedral Grove
-Testing Site #2 - Mid Vancouver Island and Cathedral Grove
-Testing Site #3 - Mid Vancouver Island and Cathedral Grove
+- Testing Site #1 - Mid Vancouver Island and Cathedral Grove
+- Testing Site #2 - Thompson River Valley
+- Testing Site #3 - Vancouver
+
+Tools used for proof of concept:
+- Python
+- Rasterio for Visualization
+- Google Collab
+
+![image](./architecture.jpg)
 
 ## Initial results of analysis methods for at least 3 example properties
 
