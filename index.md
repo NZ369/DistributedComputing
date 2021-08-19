@@ -6,7 +6,29 @@ description:  Maximilian Cunningham (V00877737), Yuying Zhang (V00924070), Josep
 
 Over this term, we have done a sigificant amout of work surounding the use of satalight and remote sensing data, and how it can be leverages by distributed systems. Our project initially revolved around how to use of satalight imagery from the sentinel 2 mission. The second phase of the project was finding applications for diffient data sources, and how they could be integreated with a veriety of distributed applications.
 
-# (For titles (More number of '#' for smaller size))
+# Project Phase 1
+
+## Platform and Methods Review Document
+
+## Test sites, data, and proposed architecture involving Arbutus and at least one other platform
+
+## Initial results of analysis methods for at least 3 example properties
+
+## Natural Asset monitoring prototype
+
+## Natural Asset monitoring report and notes on future work
+
+
+
+# Project Phase 2
+
+## Mosaic Review 
+
+## Decentralized and Democratized Modern Platforms 
+
+## Architecture Design and Prototype Implementation for local Drone and/or Sensor data
+
+
 
 I haven't bailed on writing. Look, I'm generating a random paragraph at this very moment in an attempt to get my writing back on track. I am making an effort. I will start writing consistently again!
 
