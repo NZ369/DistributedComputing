@@ -4,7 +4,7 @@ date: "2021-08-18"
 description:  Maximilian Cunningham (V00877737), Yuying Zhang (V00924070), Joseph Padayattil (V00951220)
 ---
 
-Over this term, we have done a sigificant amout of work surounding the use of satalight and remote sensing data, and how it can be leverages by distributed systems. Our project initially revolved around how to use of satalight imagery from the sentinel 2 mission. The second phase of the project was finding applications for diffient data sources, and how they could be integreated with a veriety of distributed applications.
+Over this term, we have done a sigificant amout of work surounding the use of satalight and remote sensing data, and how it can be leverages by distributed systems. Our project initially revolved around how to use of satalight imagery from the sentinel 2 mission. The second phase of the project was finding applications for diffient data sources, and how they could be integreated with a veriety of distributed applications. Our group ran into some issues as we were working this term with regard to team composition. There were a siginificant number of students who dropped the course early in the terms, which lead to shifting team composition as the term progressed. As a result, our group was not fully formed until the end of phase 1 of the project when it stabalised and we did not have group members leaving anyomore.
 
 # Project Phase 1
 
