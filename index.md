@@ -67,6 +67,7 @@ Copernicus Sentinel-2 Database
 The Copernicus Open Access Hub  provides complete, free and open access to Sentinel-1, Sentinel-2, Sentinel-3 and Sentinel-5P user products, starting from the In-Orbit Commissioning Review (IOCR).  Sentinel-2 is a constellation with two twin satellites, Sentinel-2A and Sentinel-2B that conducts earth observation and systematically acquires optical imagery at high spatial resolution (10 m to 60 m) over land and coastal waters.
 
 Architecture used:
+
 ![image](./architecture1.jpg)
 
 Final testing site was Vancouver site, generated results based on our created metric is as follows:
