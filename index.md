@@ -107,13 +107,8 @@ Our team’s designed decentralized and democratized distributed platform diagra
 When it comes to the use of the platform for industry use cases such as kelp industry monitoring, it can be leveraged for asset tracking so that kelp farms can monitor their crops to help optimize their growth. In this context, each of the local devices that are part of the platform would constitute an intelligent edge device, that is a smart sensor embedded within the crop that needs to be monitored. With the platform being leveraged in such a way by industrial IoT devices that can sense, communicate and store information about the kelp crop, and further use software applications that can perform analytics and derive valuable business information from the raw data that it collects, so that the farmer is able to optimize crop yields. 
 
 
-
-
-
-
 ## Architecture Design and Prototype Implementation for local Drone and/or Sensor data
 
-![image](./heatmap.jpg)
 
 Not every problem can be solved using a distributed system. There are often limitations on network availability, information security, and other similar issues that can prevent us from being able to use the large, pre-built or custom designed systems of distributed computers to solve difficult problems. Instead, in such cases, it may be necessary to rely on local solutions to problems. Using simple, less powerful local computing systems comes with some challenges and limitations that we would not face to nearly the same extent in a distributed system.
 
@@ -123,7 +118,7 @@ The chosen problem for this stage of the project is the use of sensors distribut
 
 By using the output heat map, and combining it with satellite image data using python, we can create the following image overlay:
 
-
+![image](./heatmap.jpg)
 
 
 While this does not use actual data, and instead uses arbitrary data, this is not a true representation of the area. With that said, we could relatively easily create a more elevent version of this by taking temperature data from environment canada monitoring stations, then normalizing it and doing the steps described earlier to make a genuine heat map of the victoria region.
