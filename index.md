@@ -4,13 +4,24 @@ date: "2021-08-18"
 description:  Maximilian Cunningham (V00877737), Yuying Zhang (V00924070), Joseph Padayattil (V00951220)
 ---
 
-Over this term, we have done a sigificant amout of work surounding the use of satalight and remote sensing data, and how it can be leverages by distributed systems. Our project initially revolved around how to use of satalight imagery from the sentinel 2 mission. The second phase of the project was finding applications for diffient data sources, and how they could be integreated with a veriety of distributed applications. Our group ran into some issues as we were working this term with regard to team composition. There were a siginificant number of students who dropped the course early in the terms, which lead to shifting team composition as the term progressed. As a result, our group was not fully formed until the end of phase 1 of the project when it stabalised and we did not have group members leaving anyomore.
+Over this term, we have done a significant amount of work surrounding the use of satellite and remote sensing data, and how it can be leveraged by distributed systems. Our project initially evolved around how to use satellite imagery from the sentinel 2 mission. The second phase of the project was finding applications for different data sources, and how they could be integrated with a variety of distributed applications. Our group ran into some issues as we were working this term with regards to team composition. There were a significant number of students who dropped the course early in the terms, which led to shifting team composition as the term progressed. As a result, our group was not fully formed until the end of phase 1 of the project.  Each member in our current group was originally from a different team, however- we still managed to collaborate efficiently on all project deliverables and achieve productive teamwork.  
 
 # Project Phase 1
 
 ## Platform and Methods Review Document
 
+In order to work with large amounts of data within a reasonable time frame, extensive computing resources are necessary. Often, these needs are well above what an individual has at their disposal. As a result, we will be using cloud computing platforms for this project. These are services which rent out computing resources such as processing power and storage. The platforms we are considering are Compute Canada’s Arbutus, Colaboratory on Google Cloud, Cognitive Services and Data Lake Analytics on Microsoft Azure, and Amazon Elastic MapReduce.
+
+In order to fully understand the types of statistics and indicators we can create throughout this project, we need to explore the data available to us. The Copernicus program, started by the European Space Agency, provides free, open access to a variety of data produced by a pair of orbiting, Sentinel-2 satellites.  Working with such a vast data set allows for a plethora of statistics and indicators to be created. The applications for these vary significantly, as the parties involved have different needs. From land monitoring that highlights the effects of climate change to disaster relief organizations, border surveillance, and maritime monitoring, the metrics are widespread and are highly varied in scope.  
+
+For the purposes of this project, the focus will be on environmental and climate variables. Metrics involving the environment are important for both economical development as well as increasing sustainability by ameliorating the population’s carbon footprint.  The metrics created in this section includes: The Environmental Monitoring Metrics (EMM) which will be responsible for analyzing current environmental data and comparing this data with what has been previously collected in order to detect patterns, identify changes, and generate predictive models for the future; The Land Management Metric (LMM) which will be responsible for providing land-use information to support planning of urban and agricultural regions; and the Water Pollution Metrics (WPM) will analyze geospatial data for indicators of water pollution along coastal regions, wetlands and in-land lakes. 
+
 ## Test sites, data, and proposed architecture involving Arbutus and at least one other platform
+
+Proposed test sites:
+Testing Site #1 - Mid Vancouver Island and Cathedral Grove
+Testing Site #2 - Mid Vancouver Island and Cathedral Grove
+Testing Site #3 - Mid Vancouver Island and Cathedral Grove
 
 ## Initial results of analysis methods for at least 3 example properties
 
