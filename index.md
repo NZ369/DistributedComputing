@@ -113,7 +113,7 @@ When it comes to the use of the platform for industry use cases such as kelp ind
 
 ## Architecture Design and Prototype Implementation for local Drone and/or Sensor data
 
-
+![image](./heatmap.jpg)
 
 Not every problem can be solved using a distributed system. There are often limitations on network availability, information security, and other similar issues that can prevent us from being able to use the large, pre-built or custom designed systems of distributed computers to solve difficult problems. Instead, in such cases, it may be necessary to rely on local solutions to problems. Using simple, less powerful local computing systems comes with some challenges and limitations that we would not face to nearly the same extent in a distributed system.
 
