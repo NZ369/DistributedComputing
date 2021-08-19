@@ -101,8 +101,7 @@ Lastly, to ensure security and democratization of data, each remote server would
 The use of blockchain technology for our decentralized distributed platform involves using encrypted blocks of secondary data maintained in the distributed servers of the system, then chaining them together to form a chronological single-source-of-truth for the data.  Furthermore the user’s digital assets are distributed instead of copied or transferred, creating an immutable record of the data.  The decentralized nature of the data allows for full real-time access and transparency that preserves the integrity of the data on the platform.  
 
 Our team’s designed decentralized and democratized distributed platform diagram:
-
-
+![image](./demoplat.jpg)
 
 When it comes to the use of the platform for industry use cases such as kelp industry monitoring, it can be leveraged for asset tracking so that kelp farms can monitor their crops to help optimize their growth. In this context, each of the local devices that are part of the platform would constitute an intelligent edge device, that is a smart sensor embedded within the crop that needs to be monitored. With the platform being leveraged in such a way by industrial IoT devices that can sense, communicate and store information about the kelp crop, and further use software applications that can perform analytics and derive valuable business information from the raw data that it collects, so that the farmer is able to optimize crop yields. 
 
